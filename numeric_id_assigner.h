@@ -1,3 +1,7 @@
+/*
+    Copyright 2017 Krzysztof Karbowiak
+*/
+
 #ifndef NUMERIC_ID_ASSIGNER
 #define NUMERIC_ID_ASSIGNER
 
